@@ -11,16 +11,16 @@ const users = [
   },
   {
     id: 2,
-    name: "Rahim Khan",
-    email: "rahim@task.com",
-    password: bcrypt.hashSync("rahim123", 8),
+    name: "Umme Tanha",
+    email: "tanha@task.com",
+    password: bcrypt.hashSync("tanha123", 8),
     role: "user",
   },
   {
     id: 3,
-    name: "Karim Hossain",
-    email: "karim@task.com",
-    password: bcrypt.hashSync("karim123", 8),
+    name: "Rubaiya Hossain",
+    email: "rubaiya@task.com",
+    password: bcrypt.hashSync("rubaiya123", 8),
     role: "user",
   },
   {
